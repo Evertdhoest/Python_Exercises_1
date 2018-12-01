@@ -11,5 +11,5 @@ If the number is divisible with 5, it prints "buzz". If it's divisible with both
 
 ## 2. Lowercase converter
 
-User enters text 
+User enters text  
 Lowercase converter converts text to lowercase and asks user for new input.
