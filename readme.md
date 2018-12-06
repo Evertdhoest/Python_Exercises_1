@@ -1,6 +1,6 @@
 # Python exercises
 
-This Repo contains the exercises done through the Smartninja Course - Web Development 1
+This Repository contains the exercises done through the Smartninja Course - Web Development 1
 
 ## 1. Lowercase converter
 
