@@ -25,3 +25,13 @@ User inputs DNA string
 (example DNA provided)
 Program checks DNA string for partial strings that match with dictionary characteristics
 Program prints characteristics and matches with one of four suspects.
+
+## 5. Secret number
+
+User is requested to guess fixed random number in loop.
+Usage of __name__ == "__main__" def
+
+## 6. Lottery numbers
+
+Returns random lottery numbers between 1-100 without duplicates
+User can request amount of numbers
