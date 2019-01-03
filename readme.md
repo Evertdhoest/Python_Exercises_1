@@ -35,3 +35,7 @@ Usage of __name__ == "__main__" def
 
 Returns random lottery numbers between 1-100 without duplicates
 User can request amount of numbers
+
+## 7. Vehicle manager
+
+Program with OOP mindset to manage vehicles in database
